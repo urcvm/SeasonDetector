@@ -1,3 +1,11 @@
+*This is a micro project
+*This projects tells weather based on geo location
+*I used component Lifecycle , state, props, basic react in this project
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
