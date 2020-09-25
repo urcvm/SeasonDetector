@@ -1,9 +1,6 @@
-<li>
-  <ul>This is a micro project</ul>
-  <ul>This projects tells weather based on geo location</ul>
-<ul>I used component Lifecycle , state, props, basic react in this project</ul>
-
-  </li>
+This is a micro project.
+This projects tells weather based on geo location.
+I used component Lifecycle , state, props, basic react in this project.
 
 
 
